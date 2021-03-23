@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .card-intro{
-	background-color: var(--color-verde);
+	background-color: #D6EAE0;
 	color: #fff;
 	box-shadow: none;
 	border-radius: 20px;
@@ -111,7 +111,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .panel-top{
-	background-color: var(--color-verde);
+	background-color: var(--fondo-gris);
 	padding: 17px;
 	color: #fff;
 	text-align: center;
@@ -205,18 +205,78 @@ h1,h2,h3,h4,h5,h6{
 	color: #C18780;
 }
 
-#habitacionsencilla {
+#habitacionsencilla1 {
 	color: #40695C;
 }
 
-#cuatropuntoseisletra {
+#habitacionsencilla2 {
+	color: #40695C;
+}
+
+#habitacionsencilla3 {
+	color: #40695C;
+}
+
+#habitacionsencilla4 {
+	color: #40695C;
+}
+
+#cuatropuntoseisletra1 {
 	color: #C18780; 
 }
 
-#cuatropuntoseis {
+#cuatropuntoseisletra2 {
+	color: #C18780; 
+}
+
+#cuatropuntoseisletra3 {
+	color: #C18780; 
+}
+
+#cuatropuntoseisletra4 {
+	color: #C18780; 
+}
+
+#cuatropuntoseis1 {
+	color: #40695C; 
+}
+
+#cuatropuntoseis2 {
+	color: #40695C; 
+}
+
+#cuatropuntoseis3 {
+	color: #40695C; 
+}
+
+#cuatropuntoseis4 {
 	color: #40695C; 
 }
 
 .col-100 {
 	padding-bottom: 15px;
+}
+
+#subtituloven {
+	color: #40695C;
+}
+
+#textorosado {
+	color: #C18780;
+}
+
+#roatan {
+	background-color: #FFF0EE;
+}
+
+#iconosblancos {
+	color: #40695C;
+}
+
+#fondoindex {
+	background-color: var(--fondo-gris)!important;
+}
+
+#pietrofondo {
+	background-color: #FFFC99;
 }
